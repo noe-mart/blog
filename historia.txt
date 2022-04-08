@@ -1,3 +1,3 @@
 Hola soy Noé, tengo 22 años y actualmente estoy aprendiendo git.
 
-Soy de Ahuachapán, El Salvador.
+tambien estoy aprendiendo node
